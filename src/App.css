@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  background-size: cover;
+  background-image: url('./Img/BG2.jpg');
+  height: 100vh;
+  overflow: scroll;
+}
+form label{
+  display: inline-block;
+  width: 70px;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(143 156 167 / 41%);
+  color: white;
+}
+
+.nav-Links{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-item{
+  color: white;
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+a.nav-item:hover {
+  color: black;
+  object-fit: scale(1.5);
+  transform: scale(1.2);
+}
+.nav-Links button{
+  margin-right: 5px;
+  min-height: 15px;
+}
+.welcomePage{
+  height: 100vh;
+}
+.welcomePage h1{
+    top: 50%;
+    position: sticky;
+    left: 50%;
+    font-size: 3rem;
+    font-weight: 300;
+    letter-spacing: 1rem;
+    color: black;
+}
+.aboutMe{
+  margin: auto;
+    width: 70%;
+    font-size: 1.4rem;
+}

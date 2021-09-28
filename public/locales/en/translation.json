@@ -1,0 +1,20 @@
+{
+    "nav" : {
+        "login"    : "Login",
+        "homePage" : "HomePage",
+        "about"    : "About"
+    },
+    "homePage" : {
+        "text" : "Welcome" 
+    },
+    "about" : {
+        "title"  : "About",
+        "content": "Our team started in the web hosting industry. After a few years, we discovered there were too many challenges to making a website. Traditional web hosting services were complicated and expensive to manage. Seeing a need for simplicity, the Website.com site builder was born. We wanted to offer a website building platform that would require no coding skills or design experience, with everything needed to get published online. You can simply focus on creating an amazing website that reflects your brand."
+    },
+    "login" : {
+        "login"   : "LogIn",
+        "userId"  : "userId",
+        "password": "password"
+
+    }
+}
